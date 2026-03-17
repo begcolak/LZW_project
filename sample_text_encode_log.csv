@@ -1,0 +1,10 @@
+w,k,Output,Index,Symbol
+A,B,65,256,AB
+B,R,66,257,BR
+R,A,82,258,RA
+A,K,65,259,AK
+K,A,75,260,KA
+A,D,65,261,AD
+D,A,68,262,DA
+AB,R,256,263,ABR
+RA,,258,,
